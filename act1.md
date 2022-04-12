@@ -29,4 +29,4 @@ Print(mode)
 
 5. Analysis of the running time of your algorithm.
 
-      The runtime complexity of this algorithm is Θ (n). There are several components to the algorithm, none of which have a complexity greater than Θ (n).
+      The runtime complexity of this algorithm is Θ(n). There are several components to the algorithm, none of which have a complexity greater than Θ(n).
