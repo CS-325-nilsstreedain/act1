@@ -8,6 +8,7 @@
 
 2. Algo2
 <img width="434" alt="Screen Shot 2022-04-05 at 12 01 41 PM" src="https://user-images.githubusercontent.com/25465133/161830411-e437b3f6-8250-4f12-8471-cd78658b49cb.png">
+
 3. Algo3
 <img width="489" alt="Screen Shot 2022-04-05 at 12 01 50 PM" src="https://user-images.githubusercontent.com/25465133/161830418-8aa29245-118b-4dd7-8a9b-6e12c30bb189.png">
 
